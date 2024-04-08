@@ -1,16 +1,15 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=●●●&theme=▲▲▲&layout=★★★)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Konagawa/Konagawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=●●●&repo=▲▲▲&theme=★★★)](https://github.com/●●●/▲▲▲)
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats]
+(https://github-readme-stats.vercel.app/apiusername=●●●&show_icons=true&theme=★★★)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomo1227&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tomo1227&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=●●●&theme=★★★&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=●●●&theme=★★★)](https://github-readme-streak-stats.herokuapp.com/?user=●●●&theme=★★★)
